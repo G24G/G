@@ -1,0 +1,437 @@
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 254696812 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Owner joined";
+            Text = "owner joined ";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 2213383572 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user KendaIIIIl";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 466156685 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user Dakota";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 3401687629 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user Group1322Holder";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 1771537418 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user roadwd";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 436840645 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user xaycelol";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 1525820528 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user KDSSSNIPER2";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 101864394 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user dimabi04";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 2200456131 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user xiiCeleste";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 3009058403 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user avunts";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 61992255 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user Satyricons";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 18094668 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user corseva";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 478492431 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user ahmedtehgoo1";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 679763691 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user oblivixuz";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 80627 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user prettyplol";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 394987586 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user eIdiase";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 203598810 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user Invoux";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 318983260 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user Porcsu";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
+for i,v in pairs(game.Players:GetPlayers()) do
+    if v.UserId == 1498488003 then -- replace 'targetID' with the ID you want to check for
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        function NotificationCallBack(text)
+            if text == "Leave The Game" then
+                game.Players.LocalPlayer:Kick("Admin/Mod Detected")
+            end
+        end
+
+        local callback = Instance.new("BindableFunction", script)
+        callback.OnInvoke = NotificationCallBack
+
+        game.StarterGui:SetCore("SendNotification", {
+            Title = "Detected";
+            Text = "user aduduwwhafh";
+            Duration = 35;
+            Callback = callback;
+            Button1 = "Leave The Game";
+        })
+    end
+end
